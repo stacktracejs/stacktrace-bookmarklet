@@ -1,0 +1,25 @@
+{
+  "name": "stacktrace-bookmarklet",
+  "version": "0.0.0",
+  "description": "Bookmarklet for stacktrace.js",
+  "main": "stacktrace-bookmarklet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stacktracejs/stacktrace-bookmarklet.git"
+  },
+  "keywords": [
+    "stacktrace",
+    "bookmarklet"
+  ],
+  "author": "Eric Wendelin <me@eriwen.com> (http://www.eriwen.com/)",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/stacktracejs/stacktrace-bookmarklet/issues"
+  },
+  "dependencies": {
+    "uglify-js2": "~2.1.11"
+  }
+}
